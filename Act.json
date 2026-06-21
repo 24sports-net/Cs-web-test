@@ -1,0 +1,135 @@
+{
+  "CL": [
+    {
+      "year": "2013",
+      "title": "Companies Act, 2013"
+    },
+    {
+      "year": "2020",
+      "title": "Companies (Amendment) Act, 2020"
+    }
+  ],
+
+  "JIGL": [
+    {
+      "year": "1950",
+      "title": "Constitution of India"
+    },
+    {
+      "year": "1872",
+      "title": "Indian Contract Act, 1872"
+    },
+    {
+      "year": "1963",
+      "title": "Specific Relief Act, 1963"
+    },
+    {
+      "year": "1908",
+      "title": "Code of Civil Procedure, 1908"
+    },
+    {
+      "year": "1973",
+      "title": "Code of Criminal Procedure, 1973"
+    },
+    {
+      "year": "1996",
+      "title": "Arbitration and Conciliation Act, 1996"
+    },
+    {
+      "year": "2019",
+      "title": "Consumer Protection Act, 2019"
+    },
+    {
+      "year": "2005",
+      "title": "Right to Information Act, 2005"
+    },
+    {
+      "year": "2015",
+      "title": "Commercial Courts Act, 2015"
+    }
+  ],
+
+  "SBILL": [
+    {
+      "year": "1948",
+      "title": "Factories Act, 1948"
+    },
+    {
+      "year": "1948",
+      "title": "Employees' State Insurance Act, 1948"
+    },
+    {
+      "year": "1952",
+      "title": "Employees' Provident Funds and Miscellaneous Provisions Act, 1952"
+    },
+    {
+      "year": "1961",
+      "title": "Maternity Benefit Act, 1961"
+    },
+    {
+      "year": "1972",
+      "title": "Payment of Gratuity Act, 1972"
+    },
+    {
+      "year": "2019",
+      "title": "Code on Wages, 2019"
+    },
+    {
+      "year": "2020",
+      "title": "Industrial Relations Code, 2020"
+    },
+    {
+      "year": "2020",
+      "title": "Code on Social Security, 2020"
+    },
+    {
+      "year": "2020",
+      "title": "Occupational Safety, Health and Working Conditions Code, 2020"
+    }
+  ],
+
+  "SEBL": [
+    {
+      "year": "1992",
+      "title": "SEBI Act, 1992"
+    },
+    {
+      "year": "1956",
+      "title": "Securities Contracts (Regulation) Act, 1956"
+    },
+    {
+      "year": "1996",
+      "title": "Depositories Act, 1996"
+    },
+    {
+      "year": "2015",
+      "title": "SEBI (LODR) Regulations, 2015"
+    },
+    {
+      "year": "2018",
+      "title": "SEBI (ICDR) Regulations, 2018"
+    },
+    {
+      "year": "2011",
+      "title": "SEBI (SAST) Regulations, 2011"
+    },
+    {
+      "year": "2015",
+      "title": "SEBI (PIT) Regulations, 2015"
+    }
+  ],
+
+  "FEMA": [
+    {
+      "year": "1999",
+      "title": "Foreign Exchange Management Act, 1999"
+    }
+  ],
+
+  "IBC": [
+    {
+      "year": "2016",
+      "title": "Insolvency and Bankruptcy Code, 2016"
+    }
+  ]
+}
